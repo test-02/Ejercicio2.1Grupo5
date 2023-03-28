@@ -1,5 +1,3 @@
-# FloristeriaProyecto
-# Movil II Grupo#2 Proyecto#9
 # Integrantes:
 
 - Oscar Antonio Diaz Maldonado 201910110363
@@ -15,4 +13,3 @@
 - Emil Fernando Colomer Mateo 201810020275
 
 - Jose Armando Salasar Reyes 201930010145
-

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             xmlns:converters ="clr-namespace:MV2Rescountries.Converters"
+             x:Class="MV2Rescountries.View.MapView"
+             NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.Resources>
+        <converters:ImageSvgToImageSource x:Key="SvgToImageValid" />
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <maps:Map x:Name="mapa"/>
+    </StackLayout>
+</ContentPage>
